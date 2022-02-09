@@ -1,2 +1,2 @@
-# M1_Covid-Management-System
+# M1_Covid-Management-System_Util
 Covid Management System
