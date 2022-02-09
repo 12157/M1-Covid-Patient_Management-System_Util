@@ -18,4 +18,10 @@ The project is a small component of a large system, this can be integrated with 
 - The user has to login. The access id and password are pre feed into the system.
 - Then he will be able to either register for vaccine or patient records
 - Patient records has features such as add,view,search,update,delete
-- Vaccine registration has features such as make appointement,view, delete
+- Vaccine registration has features such as make appointement,view, delete!
+
+##SWOTANALYSIS
+
+[SWOT Analysis](https://user-images.githubusercontent.com/62583721/153223596-9009bcb4-da56-4ca8-ac0a-61ffc66f099c.jpg)
+
+
