@@ -22,6 +22,4 @@ The project is a small component of a large system, this can be integrated with 
 
 ##SWOTANALYSIS
 
-[SWOT Analysis](https://user-images.githubusercontent.com/62583721/153223596-9009bcb4-da56-4ca8-ac0a-61ffc66f099c.jpg)
-
-
+![SWOT Analysis](https://user-images.githubusercontent.com/62583721/153223977-98030755-afbf-4823-8b0c-140dd31ca145.jpg)
