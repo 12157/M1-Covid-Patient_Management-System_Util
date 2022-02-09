@@ -15,3 +15,7 @@ The project is a small component of a large system, this can be integrated with 
 ## Defining Our System
 
 ![Design](https://user-images.githubusercontent.com/62583721/153222543-184a5bbf-0118-4614-ba35-8fcb0393eb7c.png)
+- The user has to login. The access id and password are pre feed into the system.
+- Then he will be able to either register for vaccine or patient records
+- Patient records has features such as add,view,search,update,delete
+- Vaccine registration has features such as make appointement,view, delete
