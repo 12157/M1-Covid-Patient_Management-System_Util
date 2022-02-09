@@ -52,7 +52,7 @@ The application is written in C and no extra dependencies are required on the cl
 
 ## Low level Requirements:
 | ---- | -------- | ---- | ---- |
- |ID |	| Description |	| HLR ID |	| Status (Implemented/Future) |
+| ID |	| Description |	| HLR ID |	| Status (Implemented/Future) |
 | LR01	| | Providing a login system which will give access to only authorised personal|	| HR01 |	| TBD-S1 |
 | LR01.1 |	| Adding a new patient details to the record |	| HR01	|| TBD-S1 |
 | LR01.2 |	| Display all record that are present in the file |	| HR01 |	| TBD-S1 |
