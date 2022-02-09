@@ -20,6 +20,6 @@ The project is a small component of a large system, this can be integrated with 
 - Patient records has features such as add,view,search,update,delete
 - Vaccine registration has features such as make appointement,view, delete!
 
-##SWOTANALYSIS
+##SWOT ANALYSIS
 
 ![SWOT Analysis](https://user-images.githubusercontent.com/62583721/153223977-98030755-afbf-4823-8b0c-140dd31ca145.jpg)
