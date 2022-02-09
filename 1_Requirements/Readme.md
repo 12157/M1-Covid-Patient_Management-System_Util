@@ -59,7 +59,7 @@ The application is written in C and no extra dependencies are required on the cl
 | LR01.3 |	| Update the record of patient if mistake is made, using adharcard number |	| HR01 |	| TBD-S1 |
 | LR01.4 |	| Search a paitient using adharcard number |	| HR01 | | TBD-S1 |
 | LR01.5 |  | Delete patient Record from the file |	| HR01 | | TBD-S1 |
-| LR02 | | The hospital capacity of vacinating people per day should be pre feed | | HR02	| |TBD-S1|
-|LR02.1	||New registration for vaccine shot after checking if slot is available|	|HR02|	|TBD-S1|
-|LR02.2|	|Deleting the vaccine registration for a person using adharcard number|	|HR02	||TBD-S1|
-|LR02.3	||Veiw all registration for a particular date (dd-mm-yyyy)	||HR02	||TBD-S1|
+| LR02 | | The hospital capacity of vacinating people per day should be pre feed | | HR02	| | TBD-S1 |
+| LR02.1	| | New registration for vaccine shot after checking if slot is available |	| HR02|	| TBD-S1 |
+| LR02.2 |	| Deleting the vaccine registration for a person using adharcard number |	| HR02 | | TBD-S1|
+| LR02.3 | | Veiw all registration for a particular date (dd-mm-yyyy)	|| HR02	|| TBD-S1|
