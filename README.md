@@ -23,4 +23,5 @@
 |255934|	Sruthi|	All |	5	| 5	| 7	| 7|
 
 ## Challenges Faced and How Was It Overcome
-1.Making it available for both operating system 2. Simple UI so that it can be learnt in less time
+1.Making it available for both operating system 
+2. Simple UI so that it can be learnt in less time
