@@ -19,5 +19,5 @@
 
 ## Contributors List and Summary
 | PS No.|	Name |	Features |	Issuess Raised |	Issues Resolved	| No Test Cases	| Test Case Pass|
-|---| |----| -------| -------| -----| ----|---|
+|---| ---- | -------| -------| -----| ----|---|
 |255934|	Sruthi|	All |	5	| 5	| 7	| 7|
