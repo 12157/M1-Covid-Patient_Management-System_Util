@@ -6,3 +6,14 @@
 ## Code Inspector
 ![Code Inspector](https://user-images.githubusercontent.com/62583721/153444016-3abecc9c-7eb3-4af6-9f70-54d98deb49cd.png)
 
+## Folder Structure
+| Folder|	Description|
+|---| ----|
+| 1_Requirements|	Documents detailing requirements and research|
+| 2_Design |	Documents specifying design details|
+| 3_Implementation |	All code and documentation|
+| 4_Test_plan |	Documents with test plans and procedures|
+| 5_Report |	Project report|
+| 6_ImagesAndVideos	| All the images and files required|
+| 7_Other |	dataset and other files|
+
