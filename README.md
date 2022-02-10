@@ -1,4 +1,4 @@
-# M1_Covid-Management-System_Util
+# M1_Covid-Patient_Management-System_Util
 
 ## Codecy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade)
