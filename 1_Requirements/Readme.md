@@ -42,6 +42,11 @@ Application will be running on desktops in hospitals of our client to store data
 ### How:
 The application is written in C and no extra dependencies are required on the clients system.
 
+## Code Inspector
+
+![Code Inspector](https://user-images.githubusercontent.com/62583721/153443627-2e2b688e-255b-462d-8ec3-d31030450b6e.png)
+
+
 ## Detail requirements
 ## High Level Requirements:
 
