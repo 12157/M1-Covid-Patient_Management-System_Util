@@ -8,7 +8,9 @@
 
 [![Contribution Check  - Git Inspector](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml)
 
-https://app.codiga.io/public/user/github/12157
+<a href="https://app.codiga.io/public/user/github/12157">
+   <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
+</a>
 
 ## Code Inspector
 ![Code Inspector](https://user-images.githubusercontent.com/62583721/153444016-3abecc9c-7eb3-4af6-9f70-54d98deb49cd.png)
