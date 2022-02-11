@@ -1,4 +1,4 @@
-name: Contribution Check - Git Inspector
+name: Static Code - Cpp Check
 
 on:
   push:
