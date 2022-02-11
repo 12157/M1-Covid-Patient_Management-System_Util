@@ -27,3 +27,11 @@
 ## Challenges Faced and How Was It Overcome
 1.Making it available for both operating system 
 2. Simple UI so that it can be learnt in less time
+
+## Reference
+
+Greeks for Greeks
+
+Youtube C programming
+
+modules C lectures
