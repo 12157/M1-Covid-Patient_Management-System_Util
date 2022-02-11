@@ -4,7 +4,10 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade)
 
 ![code quality](https://api.codiga.io/project/30971/score/svg)
+
 ![code grade](https://api.codiga.io/project/30971/status/svg)
+
+[![Unit Testing - Unity](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/lol.yml/badge.svg?branch=main&event=check_suite)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/lol.yml)
 
 [![Contribution Check  - Git Inspector](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml)
 
