@@ -44,14 +44,14 @@ int main()
 
 void test_search_rec()
 {
-  TEST_ASSERT_EQUAL(1,Search(1,"Milan"));
-  TEST_ASSERT_EQUAL(0,Search(1,"random"));
+  TEST_ASSERT_EQUAL(1,Search(1,"Bommisetty"));
+  TEST_ASSERT_EQUAL(0,Search(1,"Sruthi"));
 
 }
 void test_vac_search_rec()
 {
-  TEST_ASSERT_EQUAL(1,vac_view(1,"Milan"));
-  TEST_ASSERT_EQUAL(0,vac_view(1,"random"));
+  TEST_ASSERT_EQUAL(1,vac_view(1,"Bommisetty"));
+  TEST_ASSERT_EQUAL(0,vac_view(1,"Sruthi"));
 
 }
 void test_main_menu()
@@ -69,26 +69,26 @@ void test_main_menu()
 void reset_struct()
 {
    p.age=12;
-  strcpy(p.First_Name,"Milan");
-  strcpy(p.Address,"Mumbai");
-  strcpy(p.Contact_no,"9004088473");
-  strcpy(p.Doctor,"ramesh");
-  strcpy(p.Email,"milan.apegankar12@gmai.com");
-  p.Gender='M';
-  strcpy(p.Last_Name,"Apegankar");
+  strcpy(p.First_Name,"Bommisetty");
+  strcpy(p.Address,"Mysore");
+  strcpy(p.Contact_no,"9347353848");
+  strcpy(p.Doctor,"Suresh");
+  strcpy(p.Email,"sruthibommisetty3@gmail.com");
+  p.Gender='F';
+  strcpy(p.Last_Name,"Sruthir");
   strcpy(p.Problem,"XStrain");
 
 }
 void reset_struct1()
 {
    p1.age=12;
-  strcpy(p1.First_Name,"Milan");
-  strcpy(p1.Address,"Mumbai");
-  strcpy(p1.Contact_no,"9004088473");
-  strcpy(p1.Date,"12-04-2020");
-  strcpy(p1.Email,"milan.apegankar12@gmai.com");
-  p1.Gender='M';
-  strcpy(p1.Last_Name,"Apegankar");
+  strcpy(p1.First_Name,"Bommisetty");
+  strcpy(p1.Address,"Mysore");
+  strcpy(p1.Contact_no,"9347353848");
+  strcpy(p1.Date,"08-02-2022);
+  strcpy(p1.Email,"sruthibommisetty3@gmail.com");
+  p1.Gender='F';
+  strcpy(p1.Last_Name,"Sruthi");
   strcpy(p1.Center_name,"Vashi");
 
 }
@@ -102,7 +102,7 @@ void test_func_list()
 }
 void test_dlt()
 {
-  TEST_ASSERT_EQUAL(1, Deletes(1,"Milan"));
+  TEST_ASSERT_EQUAL(1, Deletes(1,"Bommisetty"));
   TEST_ASSERT_EQUAL(0,Deletes(1,"random"));
 }
 
