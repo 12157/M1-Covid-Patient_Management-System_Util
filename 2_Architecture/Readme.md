@@ -1,15 +1,15 @@
 ## Architecture
-Add UML Diagrams
+* Add UML Diagrams
 
-For information about UML Diagrams refer: UML Diagrams
+* For information about UML Diagrams refer: UML Diagrams
 
 ### Tools
 
-Draw.io
+* Draw.io
 
-Creately
+* Creately
 
-or any other free tools
+* or any other free tools
 
 ## Best Methods Followed
 
