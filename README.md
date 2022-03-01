@@ -26,16 +26,18 @@
 
 ![Code Quality](https://api.codiga.io/project/31487/score/svg)
 
+<a href="https://app.codiga.io/public/user/github/12157">
+   <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
+</a>
+
 https://app.codiga.io/public/user/github/12157
 
-
 ## Code Inspector
-![Code Inspector](https://user-images.githubusercontent.com/62583721/153444016-3abecc9c-7eb3-4af6-9f70-54d98deb49cd.png)
 
-
+![Screenshot (24)](https://user-images.githubusercontent.com/62583721/156139293-1b9a34ea-fdbd-4a4b-a020-d065b2808517.png)
 
 ## Folder Structure
-| Folder|	Description|
+| Folder|	Desc!
 |---| ----|
 | 1_Requirements|	Documents detailing requirements and research|
 | 2_Design |	Documents specifying design details|
