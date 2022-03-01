@@ -18,6 +18,8 @@
 ## Code Inspector
 ![Code Inspector](https://user-images.githubusercontent.com/62583721/153444016-3abecc9c-7eb3-4af6-9f70-54d98deb49cd.png)
 
+[![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml)
+
 ## Folder Structure
 | Folder|	Description|
 |---| ----|
