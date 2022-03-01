@@ -3,32 +3,23 @@
 
 | Build Linux | Build Windows | Unit Testing | Staic | Contribution | valgrind |
 | -------- | -------- | -------- | ------ | ----- | ----- |
-| [![Build Linux](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml) | [![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml) | [![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml) | [![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml) | | [![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml) | [![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml) |
-## Codecy
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade) 
+| [![Build Linux](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml) | [![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml) | [![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml) | [![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml) [![Quality Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml) | [![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml) | [![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml) |
+
+
+
+## Codacy And Codiga Batches
+
+| Codiga | Codacy |
+| ------ | ----- |
+| ![Code Grade](https://api.codiga.io/project/31487/status/svg) ![Code Quality](https://api.codiga.io/project/31487/score/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade)  
 
 
 
 
 
 
-[![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml)
-
-[![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml)
-
-[![Quality Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml)
 
 
-
-[![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml)
-
-
-
-[![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml)
-
-![Code Grade](https://api.codiga.io/project/31487/status/svg)
-
-![Code Quality](https://api.codiga.io/project/31487/score/svg)
 
 <a href="https://app.codiga.io/public/user/github/12157">
    <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
