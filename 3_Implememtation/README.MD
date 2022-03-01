@@ -26,7 +26,7 @@ Pointers: The Pointer in C, is a variable that stores address of another variabl
 
 syntax: data_type * pointer_variable_name;
 
-## Types of Pointers in C: 1.Null Pointer 2.Void Pointer 3.Wild pointer 4.Dangling pointer
+Types of Pointers in C: 1.Null Pointer 2.Void Pointer 3.Wild pointer 4.Dangling pointer
 
 ## funtion pointer:
 In the C function pointer is used to resolve the run time-binding. A function pointer is a pointer that stores the address of the function and invokes the function whenever required. In C, we can use function pointers to avoid code redundancy.
