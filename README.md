@@ -1,11 +1,16 @@
 # M1_Covid-Patient_Management-System_Util
 
+
+| Build Linux | Build Windows | Unit Testing | Staic | Contribution | valgrind |
+| -------- | -------- | -------- | ------ | ----- | ----- |
+| [![Build Linux](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml) | 
+[![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml) | [![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml) | [![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml) | | [![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml) | [![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml) |
 ## Codecy
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3902039a25af4d399b3267f3bb514c11)](https://www.codacy.com/gh/12157/M1_Covid-Management-System_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=12157/M1_Covid-Management-System_Util&amp;utm_campaign=Badge_Grade) 
 
 
 
-[![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml)
+
 
 
 [![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml)
@@ -14,11 +19,11 @@
 
 [![Quality Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml)
 
-[![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml)
+
 
 [![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml)
 
-[![Build Linux](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Build.yml)
+
 
 [![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml)
 
