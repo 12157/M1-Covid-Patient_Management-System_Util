@@ -33,7 +33,8 @@ In the C function pointer is used to resolve the run time-binding. A function po
 
 Unlike normal pointers, a function pointer points to code, not data. Typically a function pointer stores the start of executable code.
 Unlike normal pointers, we do not allocate de-allocate memory using function pointers.
-Struct:
+
+## Struct:
 A structure is a key word that create user defined data type in C. A structure creates a data type that can be used to group items of possibly different types into a single type.
 
 ‘struct’ keyword is used to create a structure.
