@@ -22,3 +22,7 @@
  - [x] Mentioned all the inputs for better understanding
  - [x] Presented in tabular form for easy understanding
  - [x] Both High level and low level Test plans are shown
+ 
+ ## About Unity Test Framework
+
+The Unity Test Framework (UTF) enables Unity users to test their code in both Edit Mode and Play Mode, and also on target platforms such as Standalone, Android, iOS, etc.
