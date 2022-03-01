@@ -16,13 +16,7 @@
 | L_02 | The software used for the sysytem is tested and if it is passed in the test it is used for the further process	|The inputs required is given | Pass | Pass | scenario Based|
 | L_03 |	Overall system is tested and then it is approved for the next process	| The inputs of the components is given to the system	 | Pass |	Pass |	Boundary Based|
 
-## Best Practices
 
- - [x] Checked all the possibilities of output
- - [x] Mentioned all the inputs for better understanding
- - [x] Presented in tabular form for easy understanding
- - [x] Both High level and low level Test plans are shown
- 
  ## About Unity Test Framework
 
 The Unity Test Framework (UTF) enables Unity users to test their code in both Edit Mode and Play Mode, and also on target platforms such as Standalone, Android, iOS, etc.
@@ -30,3 +24,13 @@ The Unity Test Framework (UTF) enables Unity users to test their code in both Ed
 UTF uses a Unity integration of NUnit library, which is an open-source unit testing library for .Net languages.
 
 It is possible to extend the Unity Test Framework (UTF) in many ways, for custom workflows for your projects and for other packages to build on top of UTF.
+
+
+
+## Best Practices
+
+ - [x] Checked all the possibilities of output
+ - [x] Mentioned all the inputs for better understanding
+ - [x] Presented in tabular form for easy understanding
+ - [x] Both High level and low level Test plans are shown
+ 
