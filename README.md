@@ -18,6 +18,8 @@
 
 [![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml)
 
+[![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml)
+
 <a href="https://app.codiga.io/public/user/github/12157">
    <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
 </a>
