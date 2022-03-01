@@ -12,8 +12,6 @@
 
 [![Contribution Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Contribution.yml)
 
-[![Unity Testing](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Unity.yml)
-
 [![Quality Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Quality.yml)
 
 [![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml)
