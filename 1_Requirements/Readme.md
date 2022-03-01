@@ -68,3 +68,11 @@ The application is written in C and no extra dependencies are required on the cl
 | LR02.1 | New registration for vaccine shot after checking if slot is available |	HR02 | TBD-S1 |
 | LR02.2 | Deleting the vaccine registration for a person using adharcard number | 	HR02 | TBD-S1 |
 | LR02.3 | Veiw all registration for a particular date (dd-mm-yyyy) | HR02 | TBD-S1 |
+
+## Best Methods Followed
+
+* Used functions to decrease dependency on main function.
+* Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of raliway management system.
+* Printf statements have been placed only wherever necessary to avoid confusions.
+* Created header file so that the fuctions can be used else where ever required without any difficulty.
+* Unit testing is done to avoid any computational errors.
