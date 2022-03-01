@@ -11,11 +11,15 @@
 
 [![Contribution Check  - Git Inspector](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/c-cpp.yml)
 
+[![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml)
+
+
+[![Static Check](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Static.yml)
+
 <a href="https://app.codiga.io/public/user/github/12157">
    <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
 </a>
 
-[![CI](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/main.yml)
 
 ## Code Inspector
 ![Code Inspector](https://user-images.githubusercontent.com/62583721/153444016-3abecc9c-7eb3-4af6-9f70-54d98deb49cd.png)
