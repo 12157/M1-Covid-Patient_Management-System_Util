@@ -22,9 +22,11 @@
 
 [![Valgrind](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/12157/M1-Covid-Patient_Management-System_Util/actions/workflows/Valgrind.yml)
 
-<a href="https://app.codiga.io/public/user/github/12157">
-   <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
-</a>
+![Code Grade](https://api.codiga.io/project/31487/status/svg)
+
+![Code Quality](https://api.codiga.io/project/31487/score/svg)
+
+https://app.codiga.io/public/user/github/12157
 
 
 ## Code Inspector
