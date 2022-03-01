@@ -15,3 +15,10 @@
 | L_01 | The components required for the project is tested for the further process |The working of the components is taken as the input |	Pass |	Pass |	Requirement Based|
 | L_02 | The software used for the sysytem is tested and if it is passed in the test it is used for the further process	|The inputs required is given | Pass | Pass | scenario Based|
 | L_03 |	Overall system is tested and then it is approved for the next process	| The inputs of the components is given to the system	 | Pass |	Pass |	Boundary Based|
+
+## Best Practices
+
+ * Checked all the possibilities of output
+ * Mentioned all the inputs for better understanding
+ * Presented in tabular form for easy understanding
+ * Both High level and low level Test plans are shown
