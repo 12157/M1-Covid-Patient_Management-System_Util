@@ -25,7 +25,6 @@
    <img src="https://api.codiga.io/public/badge/user/github/12157?style=light" alt="codiga badge" />
 </a>
 
-https://app.codiga.io/public/user/github/12157
 
 ## Code Inspector
 ![Screenshot (24)](https://user-images.githubusercontent.com/62583721/156139293-1b9a34ea-fdbd-4a4b-a020-d065b2808517.png)
